@@ -1,5 +1,5 @@
 # ToastyReplay
-This is **ToastyReplayer.** Geometry Dash's best Macro Replay system. Made with _showcasers in mind,_ our replay system is 99%...
+This is **ToastyReplay.** Geometry Dash's best Macro Replay system. Made with _showcasers in mind,_ our replay system is 99%...
 
 ### **100% accurate. On any level, anywhere.**
 
