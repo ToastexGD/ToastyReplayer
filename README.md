@@ -1,5 +1,7 @@
 # ToastyReplayer
-This is **ToastyReplayer.** Geometry Dash's best Macro Replay system. Made with _showcasers in mind,_ our replay system is ~~99%~~ **100% accurate. On any level, anywhere.**
+This is **ToastyReplayer.** Geometry Dash's best Macro Replay system. Made with _showcasers in mind,_ our replay system is 99%...
+
+### **100% accurate. On any level, anywhere.**
 
 ## Functionality 📜
 ToastyReplayer records players' clicks on a level and sends these clicks as a feedback request to our server. Once this is done, it will be usable for the entire mod's player base and can be played back with 100% accuracy. Our API detects if the latest completion was completed **With or without** coins, allowing for replayers to decide if they want coin-related routes on the playback.
