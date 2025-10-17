@@ -17,8 +17,7 @@ How does our seed setup work? Let us demonstrate.
 
 We ensure that every user in our database should use this mod **solely** for showcase or experimental purposes. To ensure this is being demonstrated, we have implemented security features.
 
-_If you try and use ToastyReplay for statistic gain on your or another user's account. Our mod makes sure it is traceable to a macro._ While we will not disclose the methods we use. 
-It is 100% impossible to bypass. We hope this can help demonstrate a secure and safe environment for Geode and Geometry Dash.
+__If you attempt to use ToastyReplay for statistical gain on your account or another user's account, our mod ensures that such actions are traceable to a macro.__ While we will not reveal the methods we employ, we want to emphasize that it is entirely impossible to bypass this system. We hope this reassures you of the secure and safe environment provided for Geode and Geometry Dash.
 
 # Creditors
 
